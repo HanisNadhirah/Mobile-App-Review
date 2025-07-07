@@ -1,0 +1,120 @@
+body {
+  background-color: #f8f9fa;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.container {
+  margin-top: 40px;
+}
+
+h2 {
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.btn-custom {
+  border-radius: 10px;
+  font-weight: 500;
+  padding: 8px 16px;
+}
+
+.btn-logout {
+  float: right;
+  margin-top: 10px;
+}
+
+.table img {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  border-radius: 10px;
+}
+
+.status-active {
+  background-color: #fbff00;
+  color: white;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.search-bar {
+  margin: 20px 0;
+}
+
+.action-buttons .btn {
+  margin-right: 5px;
+  border-radius: 8px;
+}
+
+.table th, .table td {
+  vertical-align: middle !important;
+}
+
+.card {
+  padding: 30px;
+  border-radius: 16px;
+  background-color: #ffffff;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.05);
+}
+
+body {
+    background-color: #fceeff; /* pastel pink background */
+    color: #333;
+  }
+
+  h1 {
+    color: #a64ca6; /* tajuk Application Reviews */
+    font-weight: bold;
+  }
+
+  /* Tukar gaya butang */
+  .btn-success {
+    background-color: #cba3ff;
+    border-color: #cba3ff;
+    color: white;
+  }
+
+  .btn-success:hover {
+    background-color: #b183e6;
+  }
+
+  .btn-danger {
+    background-color: #ff8ba7;
+    border-color: #ff8ba7;
+  }
+
+  .btn-danger:hover {
+    background-color: #f46c8b;
+  }
+
+  .btn-info {
+    background-color: #94d0cc;
+    border-color: #94d0cc;
+    color: white;
+  }
+
+  .btn-warning {
+    background-color: #f6c453;
+    border-color: #f6c453;
+    color: white;
+  }
+
+  .table th {
+    background-color: #f3e9ff; /* kepala jadual */
+  }
+
+  .badge.bg-success {
+    background-color: #81c784;
+  }
+
+  .badge.bg-secondary {
+    background-color: #b0bec5;
+  }
+
+  /* Input search box */
+  input[type="text"].form-control {
+    border: 2px solid #e0b3ff;
+    background-color: #fff0ff;
+  }
